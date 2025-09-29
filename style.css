@@ -1,18 +1,30 @@
 body {
-    scroll-behavior: smooth;
-  }
-  
-  #hero {
-    background: linear-gradient(45deg, #0d1117, #21262d);
-  }
-  
-  .project-card:hover {
-    transform: scale(1.03);
-    transition: 0.3s ease;
-  }
-  
-  .rounded-circle {
-    border: 4px solid #fff;
-    box-shadow: 0 0 10px rgba(255,255,255,0.2);
-  }
-  
+  scroll-behavior: smooth;
+}
+
+#hero {
+  background: linear-gradient(45deg, #0d1117, #21262d);
+}
+
+.profile-img {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border: 4px solid #fff;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.3);
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  transition: 0.3s ease;
+}
+
+.list-group-item a {
+  text-decoration: none;
+  font-weight: 500;
+  color: #0d6efd;
+}
+
+.list-group-item a:hover {
+  text-decoration: underline;
+}

@@ -6,7 +6,3 @@ new Typed("#typed-text", {
   backSpeed: 40,
   loop: true
 });
-
-function showProject(title) {
-  alert("More details about: " + title);
-}
