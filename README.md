@@ -1,45 +1,41 @@
-# Jaya Pranay Portfolio
+Jaya Pranay Guduru
 
-Hello! I’m **Jaya Pranay Guduru**,  
-an aspiring Software Engineer and Frontend & Cloud enthusiast.
+Aspiring Software Engineer | Frontend & Cloud Enthusiast
 
----
+About Me
 
-## About Me
+Recent B.Tech graduate (May 2025) in Computer Science & Business Systems from Sree Vidyanikethan Engineering College with a CGPA of 8.25.
+I enjoy building web applications, exploring cloud technologies, and creating efficient, user-friendly solutions.
 
-Final year B.Tech student in Computer Science & Business Systems at Sree Vidyanikethan Engineering College (CGPA 8.34).  
-I enjoy building web apps and working with cloud technologies.
+Experience
 
----
+AICTE Eduskills
 
-## Experience
+Employability Intern — Jan 2025 to Mar 2025
 
-- **Employability Intern** at AICTE Eduskills (Jan – Mar 2025)  
-- **Web Developer Intern** at AICTE Eduskills (Oct – Dec 2024)  
-- **AWS Cloud Intern** at AICTE Eduskills (Apr – Jun 2024)  
+Web Developer Intern — Oct 2024 to Dec 2024
 
----
+AWS Cloud Intern — Apr 2024 to Jun 2024
 
-## Projects
+Projects
 
-- Weather App — Live weather updates using JavaScript API  
-- Amazon Clone — Frontend practice with HTML/CSS/JS  
-- ATM Interface — Java simulation of ATM transactions  
+Weather App — Real-time weather updates using JavaScript API
 
----
+Amazon Clone — Frontend practice with HTML, CSS, JavaScript
 
-## Skills
+ATM Interface — Java simulation of ATM transactions
 
-Java, Python, JavaScript, HTML, CSS, Bootstrap, AWS
+Skills
 
----
+Languages & Frameworks: Java, Python, JavaScript, HTML, CSS, Bootstrap
+Cloud & Tools: AWS
 
-## Contact
+Contact
 
-Email: gudurujayapranay777@gmail.com  
-Phone: +91-9100-745-215  
-LinkedIn: [Your LinkedIn URL]
+Email: gudurujayapranay777@gmail.com
 
----
+Phone: +91-9100-745-215
+
+LinkedIn: linkedin.com/in/jaya-pranay-guduru
 
 © 2025 Jaya Pranay Guduru
