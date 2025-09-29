@@ -1,45 +1,45 @@
-# Jaya Pranay Portfolio
+# Guduru Jaya Pranay
 
-Hello! I’m **Jaya Pranay Guduru**,  
-an aspiring Software Engineer and Frontend & Cloud enthusiast.
+Aspiring Software Engineer | Frontend & Cloud Enthusiast
 
 ---
 
 ## About Me
 
-Final year B.Tech student in Computer Science & Business Systems at Sree Vidyanikethan Engineering College (CGPA 8.34).  
-I enjoy building web apps and working with cloud technologies.
+Recent B.Tech graduate in Computer Science & Business Systems from Sree Vidyanikethan Engineering College with a CGPA of 8.25.
+I enjoy building web applications, exploring cloud technologies, and creating efficient, user-friendly solutions.
 
 ---
 
 ## Experience
 
-- **Employability Intern** at AICTE Eduskills (Jan – Mar 2025)  
-- **Web Developer Intern** at AICTE Eduskills (Oct – Dec 2024)  
-- **AWS Cloud Intern** at AICTE Eduskills (Apr – Jun 2024)  
+* **Employability Intern** at AICTE Eduskills — Jan 2025 to Mar 2025
+* **Web Developer Intern** at AICTE Eduskills — Oct 2024 to Dec 2024
+* **AWS Cloud Intern** at AICTE Eduskills — Apr 2024 to Jun 2024
 
 ---
 
 ## Projects
 
-- Weather App — Live weather updates using JavaScript API  
-- Amazon Clone — Frontend practice with HTML/CSS/JS  
-- ATM Interface — Java simulation of ATM transactions  
+* **Weather App** — Real-time weather updates using JavaScript API
+* **Amazon Clone** — Frontend practice with HTML, CSS, JavaScript
+* **ATM Interface** — Java simulation of ATM transactions
 
 ---
 
 ## Skills
 
-Java, Python, JavaScript, HTML, CSS, Bootstrap, AWS
+* **Languages & Frameworks**: Java, Python, JavaScript, HTML, CSS, Bootstrap
+* **Cloud & Tools**: AWS
 
 ---
 
 ## Contact
 
-Email: gudurujayapranay777@gmail.com  
-Phone: +91-9100-745-215  
-LinkedIn: [Your LinkedIn URL]
+Email: [gudurujayapranay777@gmail.com](mailto:gudurujayapranay777@gmail.com)
+Phone: +91-9100-745-215
+LinkedIn: [linkedin.com/in/jaya-pranay-guduru](https://linkedin.com/in/jaya-pranay-guduru)
 
 ---
 
-© 2025 Jaya Pranay Guduru
+© 2025 Guduru Jaya Pranay
