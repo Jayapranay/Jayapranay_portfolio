@@ -1,4 +1,4 @@
-Jaya Pranay Guduru
+Guduru Jaya Pranay
 
 Aspiring Software Engineer | Frontend & Cloud Enthusiast
 
@@ -38,4 +38,4 @@ Phone: +91-9100-745-215
 
 LinkedIn: linkedin.com/in/jaya-pranay-guduru
 
-© 2025 Jaya Pranay Guduru
+© 2025 Guduru Jaya Pranay
