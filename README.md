@@ -6,8 +6,7 @@ Aspiring Software Engineer | Frontend & Cloud Enthusiast
 
 ## About Me
 
-Recent B.Tech graduate in Computer Science & Business Systems from Sree Vidyanikethan Engineering College with a CGPA of 8.25.
-I enjoy building web applications, exploring cloud technologies, and creating efficient, user-friendly solutions.
+Recent B.Tech Graduate (May 2025) in Computer Science & Business Systems from Sree Vidyanikethan Engineering College (CGPA 8.25). Passionate about building scalable web applications and deploying cloud solutions on AWS.
 
 ---
 
